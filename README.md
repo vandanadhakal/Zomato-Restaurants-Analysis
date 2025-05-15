@@ -25,7 +25,7 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 
 ## Conclusions
 Only 1.86% of the restaurants are veg only. 18.1% are veg and non-veg type restaurants. 80% of the restaurants don’t have any food/category assigned to them.
-27.3% of food items are categorized as non-vegetarian food and 73.31%  are categorized as vegetarian foods. Only 2.4% of sales are from restaurants that are veg only. 21.8% are from veg/non-veg restaurants. 75.72% of the sales are from restaurants that aren’t categorized as veg/non-veg. 
+27.3% of food items are categorized as non-vegetarian food and 73.31% as vegetarian foods. Only 2.4% of sales are from restaurants that are veg only. 21.8% are from veg/non-veg restaurants. Rest from restaurants that aren’t categorized as veg/non-veg. 
 
 Large number of foods have prices within ₹100 - ₹300 range. Foods costing the same have ratings that vary largely. Generally, higher costing foods have higher ratings but the number of ratings for higher cost foods are low indicating few numbers of people are eating higher cost foods. Lots of low-cost foods (₹50 - ₹400) have good ratings that are > 3.5. Based on the number of reviews and value of the ratings, Zomato customers find worth in less pricey foods. 
 
