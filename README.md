@@ -27,19 +27,17 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 Only 1.86% of the restaurants are veg only. 18.1% are veg and non-veg type restaurants. 80% of the restaurants don’t have any food/category assigned to them.
 27.3% of food items are categorized as non-vegetarian food and 73.31% as vegetarian foods. Only 2.4% of sales are from restaurants that are veg only. 21.8% are from veg/non-veg restaurants. Rest from restaurants that aren’t categorized as veg/non-veg. 
 
-Large number of foods have prices within ₹100 - ₹300 range. Foods costing the same have ratings that vary largely. Generally, higher costing foods have higher ratings but the number of ratings for higher cost foods are low indicating few numbers of people are eating higher cost foods. Lots of low-cost foods (₹50 - ₹400) have good ratings that are > 3.5. Based on the number of reviews and value of the ratings, Zomato customers find worth in less pricey foods. 
-
-For cuisines that are popular (higher adoption by restaurants), Veg and non-Veg food items have similar popularity among the customers. About the same number of customers have rated veg and non-veg food items with the same rating value. 
+Large number of foods have prices within ₹100 - ₹300 range. Foods costing the same have ratings that vary largely. Generally, higher costing foods have higher ratings but the number of ratings for higher cost foods are low indicating few numbers of people are eating higher cost foods. Lots of low-cost foods (₹50 - ₹400) have good ratings that are > 3.5. Based on the number of reviews and value of the ratings, Zomato customers find worth in less pricey foods.  
 
 Cities like ‘Bikaner’, ‘Noida-1’, ‘Indirapuram, Delhi’ have the largest numbers of restaurants. Bikaner has 1666 restaurants with ₹11M in sales. ‘Electronic City, Bangalore’ has the largest cumulative sales of ₹29M with only 1039 restaurants. The number of cities and sales don’t have direct relationship, it is important to understand the population, demographics and prevalence of offices in the cities to get a better picture on this topic. 
 
-India has lots of chain restaurants. Domino’s Pizza has 442 locations with total sales of ₹5M. Kouzina Kafe – The Food Court has 47 locations with ₹2M in sales. Multiple other restaurants have multiple locations. Restaurants with multiple locations have larger cumulative sales. Restaurants with just a single location or very few locations see large sales per restaurants compared to restaurant chains. Janta Snacks has 1 location with ₹1.5M sales. Happy Brew Café, Jaysika DDN Fast Food and Cafe Yummy all have only 1 location with higher per store sales. Whereas, Domino's Pizza has ₹11K sales per location. Having more restaurant locations doesn’t mean more sales for each location which in turn may not mean more profit as well.
+India has lots of chain restaurants. Restaurants with multiple locations have larger cumulative sales. Restaurants with just a single location or very few locations see large sales per restaurants compared to restaurant chains. Having more restaurant locations doesn’t mean more sales for each location which in turn may not mean more profit as well.
 
 Sales of the restaurants is in a declining trend from Q4 2017 to Q2 2020. Most quarters have seen sales decline from the previous quarter. Covid may be responsible for the declines in 2020 but the reasons for the declines in previous years need more study.
 
-Among the 15 most adopted cuisines by the restaurants, 8759 restaurants are branded as “Chinese, North Indian”, the cuisine adopted by the largest number of restaurants. “Chinese, Indian” and “Indian” are respectively adopted by 6682 and 6414 restaurants making them 2nd and 3rd popular cuisine types. Looking at the name of the top cuisines, Indian restaurant industry is influenced by neighboring country China. Lots of restaurant’s cuisines are a fusion of cuisines from around the world for example, ‘Chinese, North Indian’, ‘Continental, Pizzas’, ‘Italian, Mexican’. Other food like Bakery, Desserts, Ice-creams, Pizzas, Fast Food, Beverages also seem to have captured Indian customers.
+Among the 15 most adopted cuisines by the restaurants, 8759 restaurants are branded as “Chinese, North Indian”, the cuisine adopted by the largest number of restaurants. Looking at the name of the top cuisines, Indian restaurant industry is influenced by neighboring country China. Lots of restaurant’s cuisines are a fusion of cuisines from around the world for example, ‘Chinese, North Indian’, ‘Continental, Pizzas’, ‘Italian, Mexican’.
 
-Multiple chain restaurants like Domino’s Pizza, Pizza Hut, KFC etc have larger number of restaurants under their belts. The presence of these restaurants along with Baskin Robins, Subway, McDonald’s to name some is an indication that Indian restaurant market is influence by western foods/restaurants. The ratings for these chain restaurants seem to be more or less similar with an average of 3.7. 
+Multiple chain restaurants like Domino’s Pizza, Pizza Hut, KFC etc have larger number of restaurants under their belts. The presence of these restaurants along with Baskin Robins, Subway, McDonald’s to name some is an indication that Indian restaurant market is influence by western foods/restaurants. 
 
 ## Recommentdations
 #### Veg/non-Veg Analysis
@@ -53,6 +51,8 @@ Multiple chain restaurants like Domino’s Pizza, Pizza Hut, KFC etc have larger
 #### Cuisine Analysis
 - Bringing food from around the world to test the Indian market could be a good starting approach for someone in the culinary world.
 - Since Indian food with a fusion of Chinese food have large sales so, including Chinese foods in the restaurants may not go wrong. 
+
+<img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Recommendations.png">
 
 ## Data Cleaning and Preparation
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
