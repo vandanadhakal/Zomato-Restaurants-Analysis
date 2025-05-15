@@ -38,11 +38,11 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 ## Limitation
 1.	The addresses of the restaurants are provided in an inconsistent format. Zipcodes, city, states, or country are provided to some and not to others. Eg:
    
-a.	Singh Hut, CIRCULAR ROAD NEAR NEHRU PARK ABOHAR
+   _a.	Singh Hut, CIRCULAR ROAD NEAR NEHRU PARK ABOHAR_
 
-b.	CHAWLA SAAB THE JUICE MASTER, SAHITYA SADAN MARKET, ABOHAR ,  Abohar (M Cl) , Fazilka 1(Abohar), Fazilka,  Punjab-152116
+   _b.	CHAWLA SAAB THE JUICE MASTER, SAHITYA SADAN MARKET, ABOHAR ,  Abohar (M Cl) , Fazilka 1(Abohar), Fazilka,  Punjab-152116_
 
-c.	The Momo corner, F-318 Kamla Nagar Agra
+   _c.	The Momo corner, F-318 Kamla Nagar Agra_
 
 So, use of these data for geographical representation or Geocoding is not possible.
 
