@@ -2,7 +2,11 @@
 
 ## Overview
 Zomato is a multinational restaurant aggregator and food delivery company. This project analyzes the business performance of restaurants from various aspects of the restaurant market.
-There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato database. The analysis is done in 3 major categories for the restaurants: Veg and non-Veg Analysis, Sales Analysis, and Cuisine Analysis. 
+There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato database. The analysis is done in 3 major categories for the restaurants: Veg and non-Veg Analysis, Sales Analysis, and Cuisine Analysis.
+
+#### Database
+
+<img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Database.png">
 
 The Project Tableau Visualization can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
 
@@ -17,8 +21,7 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 
 3. Cuisine Analysis: Are Restaurants more inclined to have Indian cuisines on their menu? Is there influence from other parts of the world on Indian restaurant industry?
 
-<img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Veg%3Anon-Veg%20Analysis.png"> 
-</details>
+<img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Veg%3Anon-Veg%20Analysis.png">
 
 ## Data Cleaning and Preparation
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
