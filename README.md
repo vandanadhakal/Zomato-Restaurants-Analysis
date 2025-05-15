@@ -4,7 +4,9 @@
 Zomato is a multinational restaurant aggregator and food delivery company. This project analyzes the business performance of restaurants from various aspects of the restaurant market.
 There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato database. The analysis is done in 3 major categories for the restaurants: Veg and non-Veg Analysis, Sales Analysis, and Cuisine Analysis. 
 
-The Project Tableau Link can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
+The Project Tableau Visualization can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
+
+The Tableau Visualization in pdf is <a href='https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Zomato%20Restaurants%20Analysis.pdf'><u>here</u>.</a>
 
 The Project Report with Explanation of Visuals can be found <a href='https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Zomato%20Analysis-Final%20Report.pdf'><u>here</u>.</a>
 
