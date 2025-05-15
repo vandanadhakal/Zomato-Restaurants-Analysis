@@ -38,3 +38,9 @@ So, use of these data for geographical representation or Geocoding is not possib
    
 3.	Some text fields in the database are not in a clean format. For example, search of the word Domino in the Restaurant name returns multiple data with one symbol variation (– or , or ‘ etc). This causes confusion and errors in the analysis. Same is true for other fields.
 
+## Future Improvements on Data
+A lot of fields data in the database is not in a clean format and wasn’t possible to clean before use. For example, for the Restaurant Name below, search of the word Domino returns the following. The names of these restaurants have one symbol (– or , or ‘ etc) difference. Whether this is intentional or not is not something an analyst would know. This causes confusion and errors in the analysis. Same is true for other fields.
+
+The addresses of the restaurants are also provided in an inconsistent fashion. A lot of the addresses misses major parts of the address format. This makes it difficult to analyze the data in terms of geographical locations.
+
+These are some areas of data that could be improved to have more accurate analysis.
