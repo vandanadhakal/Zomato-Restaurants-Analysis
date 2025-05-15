@@ -23,6 +23,21 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 
 <img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Veg%3Anon-Veg%20Analysis.png">
 
+## Conclusions
+
+## Recommentdations
+#### Veg/non-Veg Analysis
+- Restaurants should provide the information on food items and their veg and non-veg category to increase visibility, trust and making it easier for customers to order food. 
+- There is very low percentage of vegetarian only restaurant serving the vegetarian population. Restaurant community or prospective restaurant owners could tap into this deficit to attract this population to their restaurants. 
+- As lower cost foods are preferred by customers, restaurant owner could focus and increase the variety of low-cost food offered by the restaurants. 
+- For a non-veg restaurant, the variety of non-veg menu can be increased to provide more choices to the customers as people are eating veg and non-veg food equally and satisfied by both.
+#### Sales Analysis
+- Restaurants in certain cities like ‘Electronic City, Bangalore’, ‘Malviya Nagar, Delhi’ etc. have more sales, so prospective restaurants owners may benefit from this. But this requires study into demographics and socio-economic aspects of the cities. 
+- It is beneficial to have restaurants with 1 or few locations from sales point of view. They turn in more sales per restaurants than chain restaurants.
+#### Cuisine Analysis
+- Bringing food from around the world to test the Indian market could be a good starting approach for someone in the culinary world.
+- Since Indian food with a fusion of Chinese food have large sales so, including Chinese foods in the restaurants may not go wrong. 
+
 ## Data Cleaning and Preparation
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
 2.	Rating is in String type data, to make it usable this data is converted to float and ‘--' is assigned 0.0. New column Rating Clean is created to store this data.
