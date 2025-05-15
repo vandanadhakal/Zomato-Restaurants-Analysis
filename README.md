@@ -11,6 +11,10 @@ There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato datab
 
 3. Cuisine Analysis: Are Restaurants more inclined to have Indian cuisines on their menu? Is there influence from other parts of the world on Indian restaurant industry?
 
+The Tableau Link can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
+
+The Google Docs Report with Explanation of Visuals can be found <a href='https://docs.google.com/document/d/1migrRcgELsNtBIkuq8xdAB1y7VCwf5oShYClB2zLjFw/edit?tab=t.0'><u>here</u>.</a>
+
 ## Data Cleaning and Preparation
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
 2.	Rating is in String type data, to make it usable this data is converted to float and ‘--' is assigned 0.0. New column Rating Clean is created to store this data.
