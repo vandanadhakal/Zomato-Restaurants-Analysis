@@ -4,6 +4,10 @@
 Zomato is a multinational restaurant aggregator and food delivery company. This project analyzes the business performance of restaurants from various aspects of the restaurant market.
 There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato database. The analysis is done in 3 major categories for the restaurants: Veg and non-Veg Analysis, Sales Analysis, and Cuisine Analysis. 
 
+The Project Tableau Link can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
+
+The Project Report with Explanation of Visuals can be found <a href='https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Zomato%20Analysis-Final%20Report.pdf'><u>here</u>.</a>
+
 ## Analysis
 1. Veg and Non-Veg Analysis: In the world, the highest population of Vegetarians reside in India. About 20% - 39% of Indian population is vegetarians. Are there vegetarians’ restaurants to cater these population? How does the customer feel about the vegetarian food vs non-vegetarian food?
 
@@ -11,9 +15,7 @@ There are 1,48,455 restaurants listed in the restaurants.csv of the Zomato datab
 
 3. Cuisine Analysis: Are Restaurants more inclined to have Indian cuisines on their menu? Is there influence from other parts of the world on Indian restaurant industry?
 
-The Tableau Link can be found <a href='https://public.tableau.com/app/profile/vandana.dhakal/viz/ZomatoRestaurantAnalysis_17443888388170/ZomatoRestaurantsAnalysis?publish=yes'><u>here</u>.</a>
 
-The Google Docs Report with Explanation of Visuals can be found <a href='https://docs.google.com/document/d/1migrRcgELsNtBIkuq8xdAB1y7VCwf5oShYClB2zLjFw/edit?tab=t.0'><u>here</u>.</a>
 
 ## Data Cleaning and Preparation
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
