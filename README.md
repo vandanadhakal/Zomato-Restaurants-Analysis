@@ -21,6 +21,8 @@ The Project Report with Explanation of Visuals can be found <a href='https://git
 
 3. Cuisine Analysis: Are Restaurants more inclined to have Indian cuisines on their menu? Is there influence from other parts of the world on Indian restaurant industry?
 
+<img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Ve%3Anon-Veg%20Story.png">
+
 <img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Veg%3Anon-Veg%20Analysis.png">
 
 ## Conclusions
