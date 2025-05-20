@@ -1,4 +1,4 @@
-# Zomato-Restaurants-Analysis
+# Zomato Restaurant Analysis
 
 ## Overview
 Zomato is a multinational restaurant aggregator and food delivery company. This project analyzes the business performance of restaurants from various aspects of the restaurant market.
