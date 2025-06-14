@@ -1,4 +1,4 @@
-# Zomato Restaurant Analysis
+# Zomato Restaurant Segmentation Analysis
 
 ## Overview
 Zomato is a multinational restaurant aggregator and food delivery company. This project analyzes the business performance of restaurants from various aspects of the restaurant market.
@@ -53,6 +53,7 @@ Among the 15 most adopted cuisines by the restaurants, 8759 restaurants are bran
 <img src="https://github.com/vandanadhakal/Zomato-Restaurants-Analysis/blob/main/Recommendations.png">
 
 ## Data Cleaning and Preparation
+The following were used to clean and prepare the data for analysis:
 1.	Cuisine information (String type) is provided in a random way. For example, “Pizzas, Beverages” are cuisines of some restaurants while “Beverages, Pizzas” are for others. They are the same but written differently. So, the words in the cuisines are separated, sorted and combined alphabetically.
 2.	Rating is in String type data, to make it usable this data is converted to float and ‘--' is assigned 0.0. New column Rating Clean is created to store this data.
 3.	Cost from restaurant table is in text format, it needs to be converted to real after removing the Indian Rupee symbol (character ₹). 
